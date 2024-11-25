@@ -83,19 +83,12 @@ footer{
   color: white;
 }
 
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.Projects h3{
+.BTN1{
+  background-color: #9ed8dbff;
   color: white;
-  text-align: center;
-}
-
-.Project1 img{
-  border-radius: 5%;
-  border: 2.5px solid #d64045ff;
+  font-family: "Afacad Flux", sans-serif;
+  text-decoration: none;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
 }
